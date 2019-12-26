@@ -1,1 +1,1 @@
-# Filmix adlý uygulama
+# Filmix adli uygulama
